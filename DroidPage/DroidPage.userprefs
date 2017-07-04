@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{DB681E10-EBC1-47E8-90FD-F4896115793F}|Default">
+  <MonoDevelop.Ide.ItemProperties.DroidPage.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.619FBF9F-136B-4C63-9E51-0F43392F4F18" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DroidPage/MainPage.cs">
+    <Files>
+      <File FileName="DroidPage/MainPage.cs" Line="23" Column="15" />
+      <File FileName="DroidPage/Page1.cs" Line="8" Column="3" />
+      <File FileName="Droid/Page1Render.cs" Line="30" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" ActiveRuntime="Mono 4.8.1 (22a39d7)" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DroidPage.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.BAGYCEN75H4DOBOF" />
+  <MultiItemStartupConfigurations />
+</Properties>

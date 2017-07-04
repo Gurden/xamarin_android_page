@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:id="@+id/page1">
+    <Button
+        android:id="@+id/return_button"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:text="現在はAndroidページにいます。このボタンをタップすると戻ります。\n※機能しません(2回タップするとクラッシュ)"
+        android:textSize="15sp"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>
